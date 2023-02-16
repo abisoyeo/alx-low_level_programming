@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Find all files that have been modified in the last 60 seconds
+new_files=$(find . -type f -mmin -1)
+
+# Add executable permission to each new file
+for file in $new_files; do
+  chmod +x $file
+done
+
