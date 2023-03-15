@@ -1,2 +1,20 @@
-!<arch>
-main.h/    1570965666  1000  1000  100664  0         `
+_putchar.o
+_islower.o
+_isalpha.o
+_abs.o
+_isupper.o
+_isdigit.o
+_strlen.o
+_puts.o
+_strcpy.o
+_atoi.o
+_strcat.o
+_strncat.o
+_strncpy.o
+_strcmp.o
+_memset.o
+_memcpy.o
+_strchr.o
+_strspn.o
+_strpbrk.o
+_strstr.o
